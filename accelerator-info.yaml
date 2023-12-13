@@ -1,0 +1,12 @@
+id: 26a0fcf6-e6b8-47ae-9177-6b3d894d2970
+timestamp: 2023-12-13T01:04:53.734Z
+source: TAP-GUI
+username: guest
+accelerator:
+  name: react-frontend
+fragments:
+  - name: tap-workload
+options:
+  projectName: react-frontend
+  artifactId: react-frontend
+  backendService: customer-profile-backend.namespace
